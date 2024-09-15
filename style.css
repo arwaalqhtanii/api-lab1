@@ -1,0 +1,19 @@
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border-radius: 15px;
+    padding: 20px;
+ 
+}
+
+
+img {
+    max-width: 80%;
+    border-radius: 10px;
+    transition: transform 0.3s;
+    width: 50%;
+    height: 50%;
+  
+}
